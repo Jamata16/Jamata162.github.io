@@ -1,0 +1,10 @@
+body{background-image:url(../images/fondodepagina.png); color:white;}
+.cabesa{ ;height: 110px;background-color: #4e4d4d ; border-top: #017bab solid 4px ; text-align: center; color:white;}
+td{border-top:double rgb(3, 94, 155) 2px;}
+table{background-image: url(../images/code.jpg);width: 400px;height:125px;margin-left:750px;font-size: 20px;}
+td{border-right:solid rgb(3, 94, 155) 2px;text-align: center;}
+a{color:white;text-decoration: none;}
+a:hover{color: chocolate; text-decoration: underline;}
+
+
+
