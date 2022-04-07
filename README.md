@@ -1,1 +1,0 @@
-# Jamata162.github.io
